@@ -16,7 +16,7 @@ body  {
 
 header {
 height: 50px;
-width: 100%
+width: 100%;
 background-color: #ebebeb;
 line-height: 50px;
 margin: 10px 0px 20px 0px;
@@ -25,7 +25,7 @@ margin: 10px 0px 20px 0px;
 
 nav{
 height: 50px;
-width: 100%
+width: 100%;
 background-color: #ebebeb;
 line-height: 50px;
 margin-bottom: 20px;
@@ -66,24 +66,25 @@ article p {
 	background-color: #ebebeb;
 	margin: 10px;
 }
+
 aside {
-height: 280px;
-width: 440px;
-background-color: #ebebeb;
-float: right;
-position: absolute;
-top: 0px;
-right: 0px;
-margin: 0;	
+	padding-top: 40px;
+	background-color: #ebebeb;
+	height: 280px;
+	width:445px;
+	float:right;
+	position: absolute;
+	right: 0px;
+	top: 0px;
 }
 
-footer	{
-position: relative;
-height: 50px;
-width: 100%
-margin-top: 20px;
-bottom: 0;
-left: 0; 
-background-color: #ebebeb;
-
+footer {
+	height: 50px;
+	width: 100%;
+	line-height: 50px;
+	position:relative;
+	bottom:0;
+	left:0;
+	background-color: #ebebeb;
+	margin-top: 20px;
 }
